@@ -1,4 +1,4 @@
-# Timer in native JS"
+# Timer in native JS
 Use the ```deadline``` variable to set the end date.
 >deadline = '2020-04-13';
 >
