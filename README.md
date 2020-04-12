@@ -1,1 +1,1 @@
-"# Timer-js" 
+"# Timer in native JS" 
